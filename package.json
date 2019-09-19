@@ -1,0 +1,23 @@
+{
+  "name": "test-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinch2/test-git.git"
+  },
+  "author": "Jose Arguello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinch2/test-git/issues"
+  },
+  "homepage": "https://github.com/chinch2/test-git#readme"
+}
